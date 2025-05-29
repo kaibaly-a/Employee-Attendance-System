@@ -25,3 +25,24 @@ A web-based Employee Attendance Management System built using Java Spring Boot a
 
 ## 📁 Project Structure
 
+EmployeeAttendanceSystem/
+ ├── src/
+ │   └── main/
+ │       ├── java/
+ │       │   └── com/yourcompany/attendance/
+ │       │       ├── controller/
+ │       │       ├── entity/
+ │       │       ├── repository/
+ │       │       └── service/
+ │       ├── resources/
+ │       │   └── application.properties
+ │       └── webapp/
+ │           └── WEB-INF/
+ │               └── views/
+ │                   ├── login.jsp
+ │                   ├── dashboard.jsp
+ │                   └── attendance.jsp
+ ├── pom.xml
+ └── README.md
+
+
